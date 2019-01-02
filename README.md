@@ -1,2 +1,2 @@
 # remotebfapp
-Just a pet project to keep girl friend happy
+Just a pet project to keep girlfriend happy
