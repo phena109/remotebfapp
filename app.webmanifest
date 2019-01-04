@@ -1,6 +1,6 @@
 {
-  "name": "Remote Boy Friend App",
-  "short_name": "Remote BF App",
+  "name": "Boyfriend Remote Control",
+  "short_name": "BF Remote Control",
   "description": "The quick and dirty way to make a installable webapp for visual purpose",
   "icons": [
     {
@@ -21,6 +21,6 @@
   ],
   "start_url": "index.html",
   "display": "fullscreen",
-  "theme_color": "#B12A34",
-  "background_color": "#B12A34"
+  "theme_color": "#d88189",
+  "background_color": "#d88189"
 }
