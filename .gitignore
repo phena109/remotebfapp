@@ -135,3 +135,9 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+/audio/dance.wav
+/audio/push-up.wav
+/audio/meow.wav
+/audio/secret-weapon.wav
+/audio/kabedon.wav
+/audio/sing.wav
